@@ -65,7 +65,7 @@
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
             <artifactId>mssql-jdbc</artifactId>
-            <version>9.4.0.jre8</version> <!-- Use a compatible version with Java 8 -->
+            <version>11.1.0.jre8-preview</version> <!-- Use a compatible version with Java 8 -->
         </dependency>
         <dependency>
             <groupId>org.mindrot</groupId>
